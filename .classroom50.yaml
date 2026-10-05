@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "frontend-development-inf651"
+assignment: "practice-6-build-with-webpack"
+secret: "9bc63ka9"
+owner:
+  username: "Khemro"
+  id: 137201792
+  accepted_at: "2026-10-05T08:17:02Z"
+source:
+  owner: "AUPP-CS"
+  owner_id: 98384505
+  repo: "inf651-temp-practice-6-build-with-webpack"
+  branch: "main"
